@@ -2,7 +2,7 @@ import os
 
 import requests
 
-imagePath = r"test_image"
+imagePath = "test_image.png"
 channelId = 0
 
 headers = {"Authorization": "auth token goes here obviously"}
